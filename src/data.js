@@ -1,8 +1,8 @@
 export const products = [
     {
       id: 1,
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-      link: "http://lama.dev",
+      img: "https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
+      link: "https://netflixxapp.herokuapp.com/",
     },
     {
       id: 2,
@@ -12,7 +12,7 @@ export const products = [
     {
       id: 3,
       img: "https://mir-s3-cdn-cf.behance.net/projects/404/9669d8108979929.Y3JvcCw4MDgsNjMyLDAsMA.png",
-      link: "http://lama.dev",
+      link: "https://ppratik.herokuapp.com/",
     },
 
   ];
